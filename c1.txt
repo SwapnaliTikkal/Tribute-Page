@@ -1,0 +1,9 @@
+INTRODUCTION TO PROGRAMMING
+
+Binary language is made up of 0 n 1 bi mean '2'
+computer is made of hardware (RAM,ROM,PROCESSORS) and
+ every hardware is represented in two states rather than more sates.
+ram is primary memmory (MAIN MEMORY)/temporary memory
+ when we run a program it first comes in ram
+all software comes under ram. ram is made of lakhs of small capacitors(holds charge)
+charge is present 1 n not present 0
